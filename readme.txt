@@ -15,3 +15,4 @@ Changed in newfeature1 branch only.
 
 change read me in newfeature1 branch.
 ok - fully baked. time to merge.
+another half-baked change.
