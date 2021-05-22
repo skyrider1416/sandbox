@@ -7,3 +7,5 @@ This is the code for new feature 1.
 Lots of changes!
 Tons!
 Added line just to file2.
+
+Now is the time for all good persons to come to the aid of their party.
